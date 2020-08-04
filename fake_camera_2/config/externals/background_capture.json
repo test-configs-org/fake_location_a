@@ -1,0 +1,11 @@
+{
+  "access_info": {
+    "configuration_utility": "rolling_average",
+    "script_name": "rollingaverage_backgroundcapture"
+  },
+  "setup_data": {
+    "capture_period_hr": 1,
+    "capture_period_min": 0,
+    "update_weighting": 0.15
+  }
+}

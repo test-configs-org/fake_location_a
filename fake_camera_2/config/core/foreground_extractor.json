@@ -1,0 +1,23 @@
+{
+  "access_info": {
+    "configuration_utility": "frame_to_frame",
+    "script_name": "ftf_fgextractor"
+  },
+  "setup_data": {
+    "blur_size": 1,
+    "difference_depth": 1,
+    "downscale_factor": 0.25,
+    "downscale_interpolation": 0,
+    "enable_masking": true,
+    "mask_zone_list": [],
+    "post_morph_op": 1,
+    "post_morph_shape": 0,
+    "post_morph_size": 1,
+    "pre_morph_op": 3,
+    "pre_morph_shape": 0,
+    "pre_morph_size": 1,
+    "summation_depth": 5,
+    "threshold": 35,
+    "use_max_diff": false
+  }
+}
