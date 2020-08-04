@@ -1,0 +1,10 @@
+
+# Authentication/Access info for the location
+location_info.json
+
+# Local data folders
+*/logs/
+*/report/
+*/resources/videos/
+*/resources/backgrounds/
+
